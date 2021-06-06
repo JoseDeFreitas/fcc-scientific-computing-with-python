@@ -5,10 +5,10 @@ In this repository you can find the 5 projects made by me to complete the Scient
 
 Project view | Project code | Date made
 -------- | -------- | ---------
-[Build a Tribute Page](https://codepen.io/josedefreitas/full/ZEQopOo) | [fcc-tribute-page](https://github.com/JoseDeFreitas/fcc-responsive-web-design/tree/main/fcc-tribute-page) | Jul/10/2020
-[Build a Survey Form](https://codepen.io/josedefreitas/full/yLeEPzY) | [fcc-survey-form](https://github.com/JoseDeFreitas/fcc-responsive-web-design/tree/main/fcc-survey-form) | Jul/11/2020
-[Build a Product Landing Page](https://codepen.io/josedefreitas/full/MWKBaVK) | [fcc-product-landing-page](https://github.com/JoseDeFreitas/fcc-responsive-web-design/tree/main/fcc-product-landing-page) | Jul/12/2020
-[Build a Technical Documentation Page](https://codepen.io/josedefreitas/full/VweBEbL) | [fcc-technical-documentation-page](https://github.com/JoseDeFreitas/fcc-responsive-web-design/tree/main/fcc-technical-documentation-page) | Jul/15/2020
-[Build a Personal Portfolio Webpage](https://codepen.io/josedefreitas/full/MWKqMzg) | [fcc-personal-portfolio-webpage](https://github.com/JoseDeFreitas/fcc-responsive-web-design/tree/main/fcc-personal-portfolio-webpage) | Jul/15/2020
+[Arithmetic Formatter](https://replit.com/@JoseDeFreitas/fcc-arithmetic-formatter) | [fcc-arithmetic-formatter](/fcc-arithmetic-formatter) | Jun/05/2021
+[Time Calculator](https://replit.com/@JoseDeFreitas/fcc-time-calculator) | [fcc-time-calculator](/fcc-time-calculator) | MMM/DD/YYYY
+[Budget App](https://replit.com/@JoseDeFreitas/fcc-budget-app) | [fcc-budget-app](/fcc-budget-app) | MMM/DD/YYYY
+[Polygon Area Calculator](https://replit.com/@JoseDeFreitas/fcc-polygon-area-calculator) | [fcc-polygon-area-calculator](/fcc-polygon-area-calculator) | MMM/DD/YYYY
+[Probability Calculator](https://replit.com/@JoseDeFreitas/fcc-probability-calculator) | [fcc-probability-calculator](/fcc-probability-calculator) | MMM/DD/YYYY
 
-**I've earned the certification of this course (Scientific Computing with Python).** [You can verify it in this page](https://www.freecodecamp.org/certification/josedefreitas/responsive-web-design).
+**I've earned the certification of this course (Scientific Computing with Python).** [You can verify it in this page](https://www.freecodecamp.org/certification/josedefreitas/scientific-computing-with-python).

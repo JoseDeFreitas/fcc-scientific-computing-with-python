@@ -59,6 +59,7 @@ def arithmetic_arranger(problems: str, answers: bool=False) -> str:
         f"{between.join(line_three)}"
     )
 
+    # If `answers` is True, prints the answers; otherwise delete the variable
     if answers:
         arranged_problems += f"\n{between.join(problem_answers)}"
     else:

@@ -1,4 +1,4 @@
-def arithmetic_arranger(problems: str, answers=False) -> str:
+def arithmetic_arranger(problems: str, answers: bool=False) -> str:
     """ Returns the problems arranged vertically and side-by-side. """
 
     # Error handling

@@ -26,6 +26,7 @@ def arithmetic_arranger(problems: str, answers: bool=False) -> str:
     for problem in problems:
         problem = problem.split()
 
+        # Determine what's the largest digit
         largest = ""
         if len(problem[0]) > len(problem[2]):
             largest = problem[0]
@@ -36,6 +37,7 @@ def arithmetic_arranger(problems: str, answers: bool=False) -> str:
 
         dashes = "-" * (len(largest) + 2)
 
+        # "Space" refers to blank spaces
         spaces_one = ""
         spaces_two = ""
         if largest == problem[0]:
@@ -44,6 +46,7 @@ def arithmetic_arranger(problems: str, answers: bool=False) -> str:
         elif largest != problem[0]:
             spaces_one = " " * ((len(largest) + 2) - len(problem[0]))
 
+        # Line formatting
         line_one.append(f"{spaces_one}{problem[0]}")
         line_two.append(f"{problem[1]} {spaces_two}{problem[2]}")
         line_three.append(f"{dashes}")

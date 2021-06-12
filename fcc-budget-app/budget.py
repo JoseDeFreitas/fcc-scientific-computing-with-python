@@ -124,9 +124,9 @@ def create_spend_chart(categories: list) -> str:
             floor(round((category.spent * 100) / total_spent) / 10.0) * 10
         )
 
-    lines = []  # whole second lines
+    
     bars = ""  # each "o"s and spaces
-
+    lines = []  # whole second lines
     for number in range(100, -1, -10):
         match = lambda value: value >= number  # tests each percentage
         o_or_white = list(map(match, categories_spent))  # "True" and "False" list
@@ -141,7 +141,6 @@ def create_spend_chart(categories: list) -> str:
     new_line = "\n"  # because backslashes can't be inside f-strings
 
     dashes = f"    -{'-' * len(bars)}--"
-
     names = []  # each vategory name displayed vertically
 
     individuals = [category.name for category in categories]

@@ -146,7 +146,6 @@ def create_spend_chart(categories: list) -> str:
 
     individuals = [category.name for category in categories]
     largest_length = len(max(individuals, key=len))
-    # listed = list(map(list, [category for category in individuals]))
 
     listed = []
     for name in individuals:

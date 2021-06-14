@@ -13,4 +13,4 @@ Project view | Project code | Date made
 [Polygon Area Calculator](https://replit.com/@JoseDeFreitas/fcc-polygon-area-calculator) | [fcc-polygon-area-calculator](/fcc-polygon-area-calculator) | Jun/13/2021
 [Probability Calculator](https://replit.com/@JoseDeFreitas/fcc-probability-calculator) | [fcc-probability-calculator](/fcc-probability-calculator) | Jun/14/2021
 
-**I've earned the certification of this course (Scientific Computing with Python).** [You can verify it in this page](https://www.freecodecamp.org/certification/josedefreitas/scientific-computing-with-python).
+**I've earned the certification of this course (Scientific Computing with Python).** [You can verify it in this page](https://www.freecodecamp.org/certification/josedefreitas/scientific-computing-with-python-v7).

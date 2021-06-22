@@ -111,7 +111,7 @@ class Category:
 def create_spend_chart(categories: list) -> str:
     """
     Returns a bar chart showing how much percentage did every category
-    spent based on the total amount spent by all categories. It is
+    spend based on the total amount spent by all categories. It is
     formatted in a way that illustrates a bar chart.
     """
 
@@ -141,7 +141,7 @@ def create_spend_chart(categories: list) -> str:
     new_line = "\n"  # because backslashes can't be inside f-strings
 
     dashes = f"    -{'-' * len(bars)}--"
-    names = []  # each vategory name displayed vertically
+    names = []  # each category name displayed vertically
 
     individuals = [category.name for category in categories]
     largest_length = len(max(individuals, key=len))

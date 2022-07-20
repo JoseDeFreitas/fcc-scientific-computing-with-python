@@ -1,5 +1,4 @@
 # freeCodeCamp: Scientific Computing with Python: Projects.
-### Made by: [José De Freitas](https://github.com/JoseDeFreitas/).
 
 In this repository you can find the 5 projects made by me to complete the Scientific Computing with Python course on freeCodeCamp. The links in the first column will redirect you to each project, hosted and made in [Replit](https://replit.com/). The links in the second column will redirect you to the code of each project, separated into individual folders in this repository.
 
